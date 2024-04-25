@@ -1,10 +1,13 @@
-
+html body .container{
+    width: 720px;
+    height: 1280px;
+}
 .conteiner{
     margin-top: 10%;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
+    width: 40%;
     
 }
 
@@ -14,12 +17,13 @@ body a{
 
 img{
     border-radius: 100%; 
-    width: 70%;
+    width: 80%;
     height: auto;
-    margin-top: 8%;
+    margin-top: 5%;
 }
 
 .titulo{
+    width: 100px;
     margin-top: 20px;
     color: black;
     margin-left: 10px;
@@ -51,7 +55,7 @@ img{
     outline: none;
     color: rgb(0, 0, 0);
     font-size: 15px;
-    width: 100%;
+    width: 50%;
     
 }
 .labelInput{
